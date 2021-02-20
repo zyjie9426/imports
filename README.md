@@ -1,0 +1,1 @@
+test composer v1.0
